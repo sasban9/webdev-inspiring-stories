@@ -1,0 +1,5 @@
+PHP was invented by Rasmus Lerdorf in 1994 to solve a specific problem he faced: managing his personal website. Originally, PHP stood for "Personal Home Page," and it was simply a set of Common Gateway Interface (CGI) scripts written in C to help him track visitors to his online resume. 
+
+Lerdorf quickly realized that others might benefit from similar functionality, so he released the code to the public. As more users began adopting PHP, they started requesting additional features. This led Lerdorf to extend PHP beyond simple tracking and add capabilities that made it possible to create dynamic, interactive web pages. In 1997, PHP became PHP/FI (Form Interpreter), and it rapidly gained popularity.
+
+PHP's appeal grew because it made web development easier and more accessible. It allowed developers to embed code directly within HTML, which simplified the process of connecting databases to websites and handling user input. Its ease of use, affordability, and adaptability made PHP the go-to language for many early web projects and contributed to its widespread adoption as a foundational language for web development.
