@@ -141,9 +141,7 @@
 
 ---
 
-###
-
- **Life Philosophy:**
+### **Life Philosophy:**
 96. **Gain:** Living in the moment 🌿 — **Lose:** Planning for the future.
 97. **Gain:** Avoiding risk 🤔 — **Lose:** Potential high rewards.
 98. **Gain:** Chasing dreams 🌠 — **Lose:** Stability of the familiar.
